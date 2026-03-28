@@ -1,0 +1,13 @@
+body{
+  background: gainsboro;
+}
+.cruTimeBox{
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+.cruTime{
+  font-size: 24px;
+  font-weight: bold;
+  color: blue;
+}
